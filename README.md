@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @markrvmurray. My Work here is my own, done in my free time and is independent of my employer.
+- 👋 Hi, I’m @markrvmurray.
+My Work here is my own, done in my free time and is independent of my employer.
 - 👀 I’m interested in retrocomputing, particularly the MC6809 and MC68000 processors. I'm also a compiler and operating system enthusiast.
 - 🌱 I’m currently learning the detailed internals of CLang/LLVM.
 - 💞️ I’m looking to collaborate on MC6809 backend for Clang/LLVM.
